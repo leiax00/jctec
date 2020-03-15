@@ -1,0 +1,5 @@
+jctec:
+  param1: aaaaa
+  param2:
+    - a1
+    - a2
